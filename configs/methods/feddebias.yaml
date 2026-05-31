@@ -1,0 +1,3 @@
+# FedDebias: success-rate debiased aggregation
+federation:
+  method: "feddebias"

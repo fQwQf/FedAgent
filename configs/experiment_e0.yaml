@@ -1,0 +1,19 @@
+# E0: Gradient Consistency Probe
+# Only 3 rounds, minimal training, gradient collection enabled
+
+defaults:
+  - base
+
+training:
+  num_rounds: 3
+  local_epochs: 1
+  batch_size: 2
+  learning_rate: 1.0e-4
+
+federation:
+  method: "fedavg"
+
+logging:
+  experiment_name: "e0_gradient_probe"
+  log_gradients: true
+  save_checkpoint_every: 100
