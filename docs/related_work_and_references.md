@@ -1,6 +1,13 @@
-# FedRNK 参考文献
+# References and Related Work [ACTIVE — 持续更新]
 
-> 与当前方案相关的文献，按类别整理。旧版FITAL框架的对比分析已移除。
+> **状态：活跃文档**。本文件记录与本项目相关的核心文献，按类别整理。
+>
+> **关联文档：**
+> - `../novelty_assessment.md` — 本文献的对比分析结论
+> - `../theory.md` — 理论基础
+> - `../experiments.md` — 实验验证
+>
+> **旧版FITAL框架的对比分析已移除**（归档至 `../archive/`）。
 
 ---
 

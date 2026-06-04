@@ -1,5 +1,11 @@
-# Comprehensive Analysis: Federated LLM Agent Training
+# Comprehensive Analysis: Federated LLM Agent Training [ARCHIVE — 早期探索阶段]
 
+> **状态：已归档**。本文件记录项目早期（E0-E5阶段）的22种方法对比实验，基于已放弃的 FITAL/FedRNK 框架。
+>
+> **当前方向：** 项目已转向 Loss-Proportional Aggregation 理论框架（详见 `../theory.md`）。
+>
+> **保留原因：** E0-E5 实验数据可作为 baseline 参考。
+>
 > Generated from E0-E5 experimental data. All conclusions backed by quantitative evidence.
 
 ---
